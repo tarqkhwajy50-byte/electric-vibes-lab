@@ -1,0 +1,8 @@
+{
+  "name": "Remix المعمل الكهربائي | Electric Vibes Lab",
+  "description": "معمل تفاعلي لمهندسي الكهرباء لحساب الأحمال والمحوّلات وهبوط الجهد وتحسين معامل القدرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
